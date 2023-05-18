@@ -1,1 +1,3 @@
 http://gcapes.github.io/git-course/02-local/index.html
+
+http://gcapes.github.io/git-course/setup.html

@@ -1,4 +1,4 @@
-Learning to use Git
+Learning to use Git Superpowers
 
 S Watson 18/05/23
 

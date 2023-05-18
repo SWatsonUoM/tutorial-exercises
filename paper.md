@@ -1,6 +1,6 @@
-Learning to use Git
+Learning to use Git with simulations
 
-S Watson 18/05/23
+S A Watson and E C Watson 18/05/23
 
 Introduction
 

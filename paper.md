@@ -1,7 +1,11 @@
-Learning to use Git Superpowers
+Learning to use Git with Superpowers and Simulations
 
-S Watson 18/05/23
+S A Watson and E C Watson 18/05/23
 
 Introduction
 
 This is the introduction section I have to write as part of the tutorial (see reference links 1 and 2)
+
+Simulations
+
+We did some simulations
